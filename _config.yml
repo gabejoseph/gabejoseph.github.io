@@ -1,11 +1,11 @@
 # Site settings
-author: gabriel.joseph4
-title: 
+author: Gabriel Joseph
+title: Gabe's Blog
 header-img: img/home-bg.png
 email: gabriel.joseph4@gmail.com
-copyright_name: gabriel.joseph4
+copyright_name: Gabriel Joseph
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Just a short blog detailing my journey.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  gabejoseph
