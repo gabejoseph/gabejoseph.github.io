@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "From Sinatra to React"
-date:       2020-11-14 16:53:15 +0000
+date:       2020-11-14 11:53:16 -0500
 permalink:  from_sinatra_to_react
 ---
 
