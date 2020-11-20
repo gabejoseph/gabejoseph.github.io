@@ -1,0 +1,22 @@
+---
+layout: post
+title:      "new Map();"
+date:       2020-11-20 20:32:47 +0000
+permalink:  new_map
+---
+
+
+This week's blog is a very simple, straightforward one on how to get the most out of the new Map(); function. new Map(); creates an object of any size, you can choose the length by passing a number of your choice like this.
+
+> > new Map(100);
+
+This creates a hash that will have 100 undefined spaces. If you'd like to set something inside one of those hashes you can do so like this.
+
+>>const newMap = new Map(100);
+>newMap.set(1, 2)
+
+This will create a key value pair that looks like the following.
+
+>>Map { 1 => 2 }
+
+Thanks for reading!
